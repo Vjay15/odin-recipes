@@ -1,0 +1,13 @@
+* {
+    color: black;
+}
+
+#main {
+    background-color: aquamarine
+}
+.head {
+    position: relative;
+    text-align: center;
+    color: tomato;
+    font-size: 50px;
+}
